@@ -1,4 +1,4 @@
-# code 1
+# code 1  // q1.sv
 ...
 module assign1();
 
